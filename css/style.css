@@ -1,6 +1,6 @@
 @keyframes slidedown {
   from {
-    top: -200px;
+    top: -250px;
   }
   to {
     top: 30px;
@@ -12,7 +12,7 @@
     top: 30px;
   }
   to {
-    top: -200px;
+    top: -250px;
   }
 }
 
@@ -112,7 +112,7 @@ input:-webkit-autofill:active {
 
 .modal {
   position: fixed;
-  top: -200px;
+  top: -250px;
   left: 50%;
   width: 400px;
   padding: 20px;
